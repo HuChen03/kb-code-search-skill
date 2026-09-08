@@ -1,0 +1,19 @@
+{
+  "benchmark-image": "d60d9578c73f745912f06d939add12a0ae2b49ac",
+  "cepc-physics-knowledge-base": "4bb6200743c96fe47dfa610fecf15c87521952f4",
+  "darkshine-simulation": "1937215272039e6340db068b1a17b07a4ed53123",
+  "higgs-strange-solver": "b0a3f4b379f31966ba6e0eb3c5768332a5a60331",
+  "software-infrastructure-knowledge-base": "070f1eacd7da13417ed520052c538a3c0115c38a",
+  "MG5_aMC_v3.5.13.tar.gz": {
+    "sha256": "55ac5517eacde69d37a22ef2677a923a597b34b04578df9fe76519afaab088a2",
+    "size_bytes": 31116006
+  },
+  "delphes-3.5.0.tar.gz": {
+    "sha256": "30a2536e0c8f47d633ecf3b4d51ec9924af54538e492470ad47b4ed34342f063",
+    "size_bytes": 5353836
+  },
+  "fastjet-3.3.4.tar.gz": {
+    "sha256": "a5ebeb9d5390fb6810bb1fdcae7b876ed6b48075cf4ad5cb283bc59c4b42b46f",
+    "size_bytes": 1735947
+  }
+}
