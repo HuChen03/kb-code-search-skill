@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "knowledge_base": {
+    "url": "https://github.com/SII-inpac-Chuangqi/software-infrastructure-knowledge-base.git",
+    "ref": "main"
+  },
+  "index": {
+    "knowledge_base_revision": "070f1eacd7da13417ed520052c538a3c0115c38a",
+    "asset": "index-070f1ea.tar.gz",
+    "sha256": "d31d3b204b4f54fd964716b5df61a50517912595e5475335c5cf262b6fe2580b"
+  },
+  "archives": [
+    {
+      "name": "MG5_aMC_v3.5.13.tar.gz",
+      "url": null,
+      "sha256": "55ac5517eacde69d37a22ef2677a923a597b34b04578df9fe76519afaab088a2",
+      "target": "source/mg5_aMC_v3.5.13"
+    },
+    {
+      "name": "delphes-3.5.0.tar.gz",
+      "url": "https://github.com/delphes/delphes/archive/refs/tags/3.5.0.tar.gz",
+      "sha256": "30a2536e0c8f47d633ecf3b4d51ec9924af54538e492470ad47b4ed34342f063",
+      "target": "source/delphes-3.5.0"
+    },
+    {
+      "name": "fastjet-3.3.4.tar.gz",
+      "url": "https://gitlab.com/fastjet/fastjet/-/archive/fastjet-3.3.4/fastjet-fastjet-3.3.4.tar.gz",
+      "sha256": "a5ebeb9d5390fb6810bb1fdcae7b876ed6b48075cf4ad5cb283bc59c4b42b46f",
+      "target": "source/fastjet-3.3.4"
+    }
+  ],
+  "skill_path": "skill/kb-code-search"
+}
